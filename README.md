@@ -1,11 +1,11 @@
 <h1 align="center"> Tom Russell </h1>
 <p align="center">
 <a href="https://www.linkedin.com">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="20" width="20"></a>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="40" width="40"></a>
 <a href="https://www.linkedin.com">
-<img src="https://img.icons8.com/metro/420/link.png" alt="linkedin" hspace="50" height="20" width="20"></a>
+<img src="https://img.icons8.com/metro/420/link.png" alt="linkedin" hspace="50" height="40" width="40"></a>
 <a href="www.google.com">
-<img src="https://img.icons8.com/metro/420/link.png" alt="link" hspace="50" height="20" width="20"></a>
+<img src="https://img.icons8.com/metro/420/link.png" alt="link" hspace="50" height="40" width="40"></a>
 </p>
 <div align="center"> 
   
@@ -14,24 +14,21 @@
 [Skills](#skills) | 
 [Education](#education) | 
 [Experience](#experience) |
-[Awards](#awards) 
 
 </div>
 
 <a name="profile"></a>
 
 ## Profile
-I am a creative mind with a natural aptitude when it comes fixing things, making things, and taking things apart then realising exactly how i broke them.
-Over the past four years I have worked in _many_ different roles, some part time work, other longer jobs. I was seeking a path to career, but rather gained valuable skills and grew personally.
-Now, my creative ambitions led me to begin my programming journey. I hope to continue learning and specialise in frontend, react, web and app design.
-After graduating Makers Academy bootcamp, I will be looking for my first role in tech. I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me grow.
+I am a creative mind with a natural aptitude when it comes fixing things.
+I've had experience programming in **Ruby**, **Javascript**, **HTML5**, **CSS**, **SQL** and such frameworks as **Rails**, **MERN** (Mongo, Express, Node.js and React).
 
+Before starting my programming journey I had worked in a variety of different roles. I was seeking a path to career, but rather gained valuable skills and grew personally.
 
-eg enthusiast with experience in, eg, eg, eg, HTML5, CSS, SQL Javascript and such frameworks as Rails, React MERN  .  I have a keen interest in , eg eg eg eg, renewable energies, artificial intelligence, augmented reality, blockchain and cryptocurrencies.
+I'm an advocate for cryptocurrencies, and have a keen interest in the potential of blockchain technology. 
 
-Previously I worked as a practice manager in a hectic veterinary practice, a role that required working under pressure, a strong work ethic, and organization. 
-
-I am looking for a software company that ... values mentorship and encourages growth both personally and professionally. 
+My Interests and creative ambitions led me to study at Makers,
+I am now looking for my first role in tech; I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me continue to learn and progress.
 
 <a name="projects"></a>
 ## Projects
