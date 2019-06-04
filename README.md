@@ -25,7 +25,7 @@ I've had experience programming in **Ruby**, **Javascript**, **HTML5**, **CSS**,
 
 Before starting my programming journey I had worked in a variety of different roles. I was seeking a path to career, but rather gained valuable skills and grew personally.
 
-I'm an advocate for cryptocurrencies, and have a keen interest in the potential of blockchain technology. 
+I feel ive grown up with at a special time for technology, and have been engaged with technology from a young age. I've always had an intrest in tech and hardware. Even before i began programming i was an advocate for cryptocurrencies, and already had a keen interest in the potential of blockchain technology. 
 
 My Interests and creative ambitions led me to study at Makers,
 I am now looking for my first role in tech; I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me continue to learn and progress.
