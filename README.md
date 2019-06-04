@@ -79,6 +79,6 @@ I am now looking for my first role in tech; I would love to find a creative work
  
 <a name="experience"></a>
 ## Experience
-**Happy Pets Veterinary Surgery** (Nov 2010 - Jul 2018)
-* *Practice Manager*
-* *key skills: verbal communication, management, problem solving, teamwork*
+**job** (mon YEAR - mon YEAR)
+* *job title*
+* *key skills: working*
