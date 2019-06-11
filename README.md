@@ -48,7 +48,7 @@ I am now looking for my first role in tech; I would love to find a creative work
 I found the experience of going back to study again a refreshing experience. I found the skills i had picked up from 
 my varied work history were transferable experience when it came to learning new things quickly. The challenge of returning to study was made easier by the course structure, which challenged my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
 
-* **Agile Development** - [XP values](https://en.wikipedia.org/wiki/Extreme_programming) were taught at Makers Academy Bootcamp and I found the AGILE system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
+* **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the AGILE system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
 
 * **Resourceful Problem Solver** -  I have always liked finding out of the box solutions for problems, diagnosing an issue and assessing what available tools are in order to solve the problem. I've enjoyed bringing translating this thinking to my debugging and troubleshooting process. 
 
@@ -63,14 +63,14 @@ my varied work history were transferable experience when it came to learning new
 
  **Makers Academy** - London
   * Oct 2018 - March 2019
-  * Highly selective immersive 16 week coding bootcamp,
-  *  Ruby, JavaScript, HTML/CSS, SQL, Web Frameworks, Databasing, Testing, Object oriented programming, Test/Behaviour driven development(TDD/BDD), XP values, Agile Development
+  * Highly selective immersive 16 week coding bootcamp
+  *  Learned TDD in Ruby and JavaScript. Build webframeworks an covered HTML/CSS, encorperated Databasing with SQL, and generally got a feel for Object oriented programming, TDD/BDD, XP values and Agile Development
 
  **Cambridge Regional College** (Sep 2013 to Aug 2014)
   * Art foundation
   * Fine Art, Sculpture
   * Pass with Merit
-    - This year really build my creative mind, it gave me the ability to build creative projects with a concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable, or important.
+    * This year really build my creative mind, it gave me the ability to build creative projects with a concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable, or important.
 
 **Hills Road Sixth Form College** (Sep 2011 to Jun 2013) 
 *A Levels*
@@ -81,10 +81,10 @@ my varied work history were transferable experience when it came to learning new
 <a name="experience"></a>
 ## Experience
 <table style="width:100%">  
-<td> **NiceSmiles** *(2017 - 2018)* </td>
-<td>**Pax Romana** *(2018)* </td>  
-<td>**Personal Images Fine Engravers** *(2016)* </td>  
-<td>**Cooperative Food** *(2015)* </td>
+<td> NiceSmiles (2017 - 2018) </td>
+<td>Pax Romana (2018) </td>  
+<td>Personal Images Fine Engravers (2016) </td>  
+<td>Cooperative Food (2015) </td>
 </tr>  
 <tr>  
 <td>Photographers Assistant</td>  
