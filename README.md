@@ -38,8 +38,7 @@ I am now looking for my first role in tech; I would love to find a creative work
 | Title | Description | Development Timeframe | Stack| Test Frameworks |
 |--|--|--|--|--|
 |[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) | Modelled from similar projects i've done in the past, this project was intended as a learning venture into react, and node libraries for fullstack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other Js frameworks and their respective test suites. | ~ 1 month |React, Axios, Node.js, Express.js, Mongo.db, Concurrently  | Cypress, Mocha, Supertest,  |
-|[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments) | This [deployment](https://warning-snek.surge.sh). | timeframe |tech | tests |
-|[3](https://github.com/tomlovesgithub/canvas-experiments) | description [deployment](https://warning-snek.surge.sh). | timeframe |tech | tests |
+|[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments) | After discovering the HTML5 canvas element and being inspired by examples by others devs online, I started to experiment with using code to generate visual effects.[deployment](http://canvas-experiments.surge.sh). | collection of short projects each taking at most a few hours | Vanilla Js and HTML | none |
 ----
 <a name="skills"></a>
 ## Skills
