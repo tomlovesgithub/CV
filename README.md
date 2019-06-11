@@ -1,4 +1,5 @@
 
+
 <h1 align="center"> Tom Russell </h1>
 <p align="center">
 <a href="https://www.linkedin.com">
@@ -26,55 +27,53 @@ I've had experience programming in **Ruby**, **Javascript**, **HTML5**, **CSS**,
 
 Before starting my programming journey I had worked in a variety of different roles. I was seeking a path to career, but rather gained valuable skills and grew personally.
 
-I feel ive grown up with at a special time for technology, and have been engaged with technology from a young age. I've always had an intrest in tech and hardware. Even before i began programming i was an advocate for cryptocurrencies, and already had a keen interest in the potential of blockchain technology. 
+I feel I've grown up with at a special time for technology, and have been engaged with technology from a young age. I've always had an interest in tech and hardware. Even before i began programming i was an advocate for cryptocurrencies, and already had a keen interest in the potential of blockchain technology. 
 
 My Interests and creative ambitions led me to study at Makers,
 I am now looking for my first role in tech; I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me continue to learn and progress.
 
 <a name="projects"></a>
 ## Projects
-| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+| Title | Description | Development Timeframe | Stack| Test Frameworks |
 |--|--|--|--|--|
-|[Messenja-FullStack-App](https://github.com/) | description | timeframe |tech | Cypress, Mocha, Supertest,  |
-|[two](https://github.com/) | description [deployment](https://warning-snek.surge.sh). | timeframe |tech | tests |
+|[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) | Modelled from similar projects i've done in the past, this project was intended as a learning venture into react, and node libraries for fullstack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other Js frameworks and their respective test suites. | ~ 1 month |React, Axios, Node.js, Express.js, Mongo.db, Concurrently  | Cypress, Mocha, Supertest,  |
+|[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments) | description [deployment](https://warning-snek.surge.sh). | timeframe |tech | tests |
+|[3](https://github.com/tomlovesgithub/canvas-experiments) | description [deployment](https://warning-snek.surge.sh). | timeframe |tech | tests |
 ----
 <a name="skills"></a>
 ## Skills
 
-* **Observant** - explain
+* **Apt learner** - 
+I found the experience of going back to study again a refreshing experience. I found the skills i had picked up from 
+my varied work history were transferable experience when it came to learning new things quickly. The challenge of returning to study was made easier by the course structure, which challenged my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
 
-* **Creative Approach** - exp
+* **Agile Development** - [XP values](https://en.wikipedia.org/wiki/Extreme_programming) were taught at Makers Academy Bootcamp and I found the AGILE system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
 
-* **Agile Development** - exp
+* **Resourceful Problem Solver** - skill from life transfers well to programming, enjoying troubleshooting and debugging and generally thinking outside the box
 
-* **Resourceful Problem Solver** - exp
+* **Confident and Expressive** - customer facing work History, creative background and varied life experience, has given me the ability to be confident, i enjoy meeting and working with new people.
 
-* **Confident and Expressive** - exp
+* **Observant, inquisitive and Detail Oriented** -  
 
-* **Apt Problem Solver**  - explain
+* **Creative Approach** - creative education was really important since then I've found joy in projects spanning different mediums, and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. 
 
 <a name="education"></a>
 ## Education
 
  **Makers Academy** - London
   * Oct 2018 - March 2019
-  * Highly selective immersive 16 week coding bootcamp
-    * Languages: Ruby, JavaScript, HTML/CSS, SQL
-    * Web Frameworks: Sinatra, Ruby on Rails
-    * Databases: PostgreSQL
-    * Testing frameworks: Rspec, Capybara, Jasmine, Jest
-    * CI/CD: Travis CI, Codeclimate, Heroku
-    * Ethos: Object oriented programming, Test/Behaviour driven development, XP values, Agile methodologies
+  * Highly selective immersive 16 week coding bootcamp,
+  *  Ruby, JavaScript, HTML/CSS, SQL, Web Frameworks, Databasing, Testing, Object oriented programming, Test/Behaviour driven development(TDD/BDD), XP values, Agile Development
 
  **Cambridge Regional College** (Sep 2013 to Aug 2014)
   * Art foundation
   * Fine Art, Sculpture
   * Pass with Merit
-    - This year really build my creative mind, it gave me the ability to creative with concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable, and important.
+    - This year really build my creative mind, it gave me the ability to build creative projects with a concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable, or important.
 
-**Hills Road Sixth Form College** (Sep 2011 to Jun 2013)
-- A Levels
-- - Photography [B] 
+**Hills Road Sixth Form College** (Sep 2011 to Jun 2013) 
+*A Levels*
+  - Photography [B] 
   - Drama and theatre studies [B] 
   - History [C]
  
