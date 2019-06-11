@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center"> Tom Russell </h1>
 <p align="center">
 
@@ -79,6 +80,16 @@ my varied work history were transferable experience when it came to learning new
  
 <a name="experience"></a>
 ## Experience
-| **NiceSmiles** _(2017 - 2018)_  _Photographers Assistant_ | **Pax Romana** _(2018)_  _Postage assistant_  |
-| **Personal Images Fine Engravers** (2016)  _Design assistant_  | **Cooperative Food** (2015) _Team Leader_ |
-    
+<table style="width:100%">  
+<td> **NiceSmiles** *(2017 - 2018)* </td>
+<td>**Pax Romana** *(2018)* </td>  
+<td>**Personal Images Fine Engravers** *(2016)* </td>  
+<td>**Cooperative Food** *(2015)* </td>
+</tr>  
+<tr>  
+<td>Photographers Assistant</td>  
+<td>Postage assistant</td> 
+<td>Design assistant</td>  
+<td>Team Leader</td>  
+</tr>  
+</table>
