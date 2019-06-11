@@ -79,6 +79,6 @@ my varied work history were transferable experience when it came to learning new
  
 <a name="experience"></a>
 ## Experience
-|**NiceSmiles** _(2017 - 2018)_  _Photographers Assistant_ | **Pax Romana** _(2018)_  _Postage assistant_  |
+| **NiceSmiles** _(2017 - 2018)_  _Photographers Assistant_ | **Pax Romana** _(2018)_  _Postage assistant_  |
 | **Personal Images Fine Engravers** (2016)  _Design assistant_  | **Cooperative Food** (2015) _Team Leader_ |
     
