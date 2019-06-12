@@ -48,8 +48,8 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
   <td> React, Axios, Node.js, Express.js, Mongo.db, Concurrently </td> 
   <td>Cypress, Mocha, Supertest</td>  
 </tr>  
-  <td>[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments)</td>
-  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.[Find it online here](http://canvas-experiments.surge.sh).</td>  
+  <td><a href='https://github.com/tomlovesgithub/canvas-experiments'>Canvas Experiments</a></td>
+  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.<a href'http://canvas-experiments.surge.sh'>Find it online here</a></td>  
   <td> Vanilla JS and HTML </td> 
   <td> none </td>  
 </tr>  
