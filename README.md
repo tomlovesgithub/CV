@@ -36,11 +36,26 @@ I am now looking for my first role in tech; I would love to find a creative work
 
 <a name="projects"></a>
 ## Projects
-| Title | Description | Development Timeframe | Stack| Test Frameworks |
-|--|--|--|--|--|
-|[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) | Modelled from similar projects i've done in the past, this project was intended as a learning venture into react, and node libraries for fullstack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other Js frameworks and their respective test suites. | ~ 1 month |React, Axios, Node.js, Express.js, Mongo.db, Concurrently  | Cypress, Mocha, Supertest,  |
-|[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments) | After discovering the HTML5 canvas element and being inspired by examples by others devs online, I started to experiment with using code to generate visual effects.[deployment](http://canvas-experiments.surge.sh). | collection of short projects each taking at most a few hours | Vanilla Js and HTML | none |
-----
+<table style="width:100%"> 
+  <tr>
+  <td> Title </td>
+  <td> Description </td>  
+  <td> Stack  </td>
+  <td> Test Frameworks  </td>
+</tr>  
+<tr>  
+  <td>[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) </td>
+  <td>Modelled from similar projects i've done in the past, this project was intended as a learning venture into react, and node libraries for fullstack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other Js frameworks and their respective test suites.</td>  
+  <td> React, Axios, Node.js, Express.js, Mongo.db, Concurrently </td> 
+  <td>Cypress, Mocha, Supertest</td>  
+</tr>  
+  <td>[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments)</td>
+  <td> After discovering the HTML5 canvas element and being inspired by examples by others devs online, I started to experiment with using code to generate visual effects.[Find it Online Here](http://canvas-experiments.surge.sh).</td>  
+  <td> Vanilla Js and HTML </td> 
+  <td> none </td>  
+</tr>  
+</table>
+
 <a name="skills"></a>
 ## Skills
 
@@ -80,16 +95,11 @@ my varied work history were transferable experience when it came to learning new
  
 <a name="experience"></a>
 ## Experience
-<table style="width:100%">  
-<td> NiceSmiles (2017 - 2018) </td>
-<td>Pax Romana (2018) </td>  
-<td>Personal Images Fine Engravers (2016) </td>  
-<td>Cooperative Food (2015) </td>
-</tr>  
-<tr>  
-<td>Photographers Assistant</td>  
-<td>Postage assistant</td> 
-<td>Design assistant</td>  
-<td>Team Leader</td>  
-</tr>  
-</table>
+- NiceSmiles (2017 - 2018)
+  - Photographers Assistant
+- Pax Romana (2018)	
+  - Postage assistant
+- Personal Images Fine Engravers (2016)	
+  - Design assistant
+- Cooperative Food (2015)
+  - Team Leader
