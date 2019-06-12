@@ -24,15 +24,14 @@
 <a name="profile"></a>
 
 ## Profile
-I am a creative mind with a natural aptitude when it comes fixing things.
-I've had experience programming in **Ruby**, **Javascript**, **HTML5**, **CSS**, **SQL** and such frameworks as **Rails**, **MERN** (Mongo, Express, Node.js and React).
+I am a creative mind with a natural aptitude when it comes to fixing things.
+I've had experience programming in **Ruby**, **Javascript**, **HTML5**, **CSS**, **SQL** and such frameworks as **Rails** and **MERN** (Mongo, Express, Node.js and React).
 
-Before starting my programming journey I had worked in a variety of different roles. I was seeking a path to career, but rather gained valuable skills and grew personally.
+Before starting my programming journey I had worked in a variety of different roles. I was seeking a path to a career, but rather gained valuable skills and grew personally.
 
-I feel I've grown up with at a special time for technology, and have been engaged with technology from a young age. I've always had an interest in tech and hardware. Even before i began programming i was an advocate for cryptocurrencies, and already had a keen interest in the potential of blockchain technology. 
+I feel I've grown up during a special time for technology and have been engaged with technology from a young age. I've always had an interest in tech and hardware. Even before I began programming I was an advocate for cryptocurrencies and already had a keen interest in the potential of blockchain technology. 
 
-My Interests and creative ambitions led me to study at Makers,
-I am now looking for my first role in tech; I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me continue to learn and progress.
+My interests and creative ambitions led me to study at Makers, I am now looking for my first role in tech; I would love to find a creative workplace that can benefit from, and challenge my abilities, helping me continue to learn and progress.
 
 <a name="projects"></a>
 ## Projects
@@ -45,13 +44,13 @@ I am now looking for my first role in tech; I would love to find a creative work
 </tr>  
 <tr>  
   <td>[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) </td>
-  <td>Modelled from similar projects i've done in the past, this project was intended as a learning venture into react, and node libraries for fullstack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other Js frameworks and their respective test suites.</td>  
+  <td>Modelled from similar projects I've done in the past, this project was intended as a learning venture into React and Node.js libraries for full-stack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other JS frameworks and their respective test suites.</td>  
   <td> React, Axios, Node.js, Express.js, Mongo.db, Concurrently </td> 
   <td>Cypress, Mocha, Supertest</td>  
 </tr>  
   <td>[Canvas Experiments](https://github.com/tomlovesgithub/canvas-experiments)</td>
-  <td> After discovering the HTML5 canvas element and being inspired by examples by others devs online, I started to experiment with using code to generate visual effects.[Find it Online Here](http://canvas-experiments.surge.sh).</td>  
-  <td> Vanilla Js and HTML </td> 
+  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.[Find it online here](http://canvas-experiments.surge.sh).</td>  
+  <td> Vanilla JS and HTML </td> 
   <td> none </td>  
 </tr>  
 </table>
@@ -59,19 +58,19 @@ I am now looking for my first role in tech; I would love to find a creative work
 <a name="skills"></a>
 ## Skills
 
-* **Apt learner** - 
-I found the experience of going back to study again a refreshing experience. I found the skills i had picked up from 
-my varied work history were transferable experience when it came to learning new things quickly. The challenge of returning to study was made easier by the course structure, which challenged my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
+* **Aptitude for fast learning** - 
+I found the experience of going back to study again refreshing. I *found* ** the skills I had picked up from 
+my varied work history were transferable to learning new things quickly. The challenge of returning to study were made easier by the course structure, which challenged my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
 
-* **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the AGILE system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
+* **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the Agile system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
 
-* **Resourceful Problem Solver** -  I have always liked finding out of the box solutions for problems, diagnosing an issue and assessing what available tools are in order to solve the problem. I've enjoyed bringing translating this thinking to my debugging and troubleshooting process. 
+* **Resourceful Problem Solver** -  I have always liked finding creative solutions for problems, diagnosing an issue and assessing what tools are available to solve the problem. I've enjoyed bringing this thinking to my debugging and troubleshooting process. 
 
-* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. I look forward to meeting and working with new people in my future workplace.
+* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. I look forward to meeting and working with new people in my future workplace. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy.
 
-* **Observant and inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other peoples code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors
+* **Observant and Inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other peoples code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors. For example in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to learn React. MENTION DOM
 
-* **Creative Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums, and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. 
+* **Creative Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. 
 
 <a name="education"></a>
 ## Education
@@ -79,13 +78,13 @@ my varied work history were transferable experience when it came to learning new
  **Makers Academy** - London
   * Oct 2018 - March 2019
   * Highly selective immersive 16 week coding bootcamp
-  *  Learned TDD in Ruby and JavaScript. Build webframeworks an covered HTML/CSS, encorperated Databasing with SQL, and generally got a feel for Object oriented programming, TDD/BDD, XP values and Agile Development
+  * Learnt TDD in Ruby and JavaScript, built projects using webframeworks and HTML/CSS, incorporated databasing with SQL and generally got a feel for object-oriented programming, TDD/BDD, XP values and Agile development
 
  **Cambridge Regional College** (Sep 2013 to Aug 2014)
   * Art foundation
   * Fine Art, Sculpture
   * Pass with Merit
-    * This year really build my creative mind, it gave me the ability to build creative projects with a concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable, or important.
+    * This year really built my creative mind, it gave me the ability to build creative projects with a concept, value process and create informed work. I believe these traits are key to making anything that is successful, valuable or important.
 
 **Hills Road Sixth Form College** (Sep 2011 to Jun 2013) 
 *A Levels*
