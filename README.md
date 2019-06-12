@@ -60,7 +60,7 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
 
 * **Aptitude for fast learning** - 
 I found the experience of going back to study again refreshing. I *found* ** the skills I had picked up from 
-my varied work history were transferable to learning new things quickly. The challenge of returning to study were made easier by the course structure, which challenged my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
+my varied work history were transferable to learning new things quickly. The challenges of returning to study were made easier by the course structure, which challenged **challenged** my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
 
 * **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the Agile system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
 
