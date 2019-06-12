@@ -68,9 +68,9 @@ my varied work history were transferable to learning new things quickly. The cha
 
 * **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. I look forward to meeting and working with new people in my future workplace. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy.
 
-* **Observant and Inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other peoples code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors. For example in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to learn React. MENTION DOM
+* **Observant and Inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other people's code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors. For example in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to learn React. MENTION DOM
 
-* **Creative Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. 
+* **Creative Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. Change to conceptual approach - lateral thinking - using known concepts to navigate novel situations. Working style - like to keep things fun wherever possible, helps keep people engaged and enjoying their work
 
 <a name="education"></a>
 ## Education
