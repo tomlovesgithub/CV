@@ -43,7 +43,7 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
   <td> Test Frameworks  </td>
 </tr>  
 <tr>  
-  <td>[Messenja-FullStack-App](https://github.com/tomlovesgithub/Messenja-fullstack-app) </td>
+  <td><a href='https://github.com/tomlovesgithub/Messenja-fullstack-app'>Messenja-FullStack-App</a> </td>
   <td>Modelled from similar projects I've done in the past, this project was intended as a learning venture into React and Node.js libraries for full-stack development. A solo project intended as a learning experience following my bootcamp, I felt this project hugely successful in giving me an orientation to React, other JS frameworks and their respective test suites.</td>  
   <td> React, Axios, Node.js, Express.js, Mongo.db, Concurrently </td> 
   <td>Cypress, Mocha, Supertest</td>  
