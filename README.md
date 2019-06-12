@@ -70,7 +70,8 @@ my varied work history were transferable to learning new things quickly. The cha
 
 * **Observant and Inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other people's code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors. For example in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to learn React. MENTION DOM
 
-* **Creative Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. Change to conceptual approach - lateral thinking - using known concepts to navigate novel situations. Working style - like to keep things fun wherever possible, helps keep people engaged and enjoying their work
+* **Creative and Conceptual Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. Change to conceptual approach - lateral thinking - using known concepts to navigate novel situations. Working style - like to keep things fun wherever possible, helps keep people engaged and enjoying their work
+Finding a way to look at a problem from a new (creative!) perspective
 
 <a name="education"></a>
 ## Education
