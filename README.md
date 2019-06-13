@@ -58,20 +58,21 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
 <a name="skills"></a>
 ## Skills
 
+* **Creative and Conceptual Thinker** - After studying a foundation year in fine art, I've found added joy in work spanning different mediums. Since have found it important to breath creative life into projects where possible: 
+Weather allowing a concept to inform decisions or thinking laterally and applying creative thinking to navigate novel situations.
+I find having a way to look at a problem from a fresh perspective can be informing, incentivising and helps to keep things fun wherever possible, especially when keeping myself and team engaged and enjoying the work
+
 * **Aptitude for fast learning** - 
-I found the experience of going back to study again refreshing. I *found* ** the skills I had picked up from 
-my varied work history were transferable to learning new things quickly. The challenges of returning to study were made easier by the course structure, which challenged **challenged** my independent learning skills and gave me confidence in my ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
+I found the experience of going back to study again refreshing. The skills I had picked up from 
+my varied work history were transferable to learning new things quickly. Returning to study was made easier by the course structure, which challenged my independent learning skills and gave me confidence in my own ability to learn new things. I feel ready to join a workplace that requires me to learn new skills and would definitely enjoy learning alongside others.
 
 * **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the Agile system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
 
 * **Resourceful Problem Solver** -  I have always liked finding creative solutions for problems, diagnosing an issue and assessing what tools are available to solve the problem. I've enjoyed bringing this thinking to my debugging and troubleshooting process. 
 
-* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. I look forward to meeting and working with new people in my future workplace. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy.
+* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy. I look forward to meeting and working with new people in my future workplace. 
 
-* **Observant and Inquisitive** -  Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other people's code, or debugging my own. Improving myself like this I've been more aware of repeating the same errors. For example in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to learn React. MENTION DOM
-
-* **Creative and Conceptual Approach** - After studying a foundation year in fine art, I've found extra joy in projects spanning different mediums and always find it important to breath creative life into projects where possible. I find this can be informing, incentivising and fun. Change to conceptual approach - lateral thinking - using known concepts to navigate novel situations. Working style - like to keep things fun wherever possible, helps keep people engaged and enjoying their work
-Finding a way to look at a problem from a new (creative!) perspective
+* **Observant and Inquisitive** - Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other people's code, or debugging my own. Improving myself like this, I've become able to make informed decisions earier in my work, and been alert to repeating errors. For example, in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to understanding the lifecycle methods and virtual DOM in React.
 
 <a name="education"></a>
 ## Education
