@@ -49,7 +49,7 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
   <td>Cypress, Mocha, Supertest</td>  
 </tr>  
   <td><a href='https://github.com/tomlovesgithub/canvas-experiments'>Canvas Experiments</a></td>
-  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.<a href'http://canvas-experiments.surge.sh'>Find it online here</a></td>  
+  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.<a href='http://canvas-experiments.surge.sh'> Find it online here</a></td>  
   <td> Vanilla JS and HTML </td> 
   <td> none </td>  
 </tr>  
@@ -58,9 +58,9 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
 <a name="skills"></a>
 ## Skills
 
-* **Creative and Conceptual Thinker** - After studying a foundation year in fine art, I've found added joy in work spanning different mediums. Since have found it important to breath creative life into projects where possible: 
-Weather allowing a concept to inform decisions or thinking laterally and applying creative thinking to navigate novel situations.
-I find having a way to look at a problem from a fresh perspective can be informing, incentivising and helps to keep things fun wherever possible, especially when keeping myself and team engaged and enjoying the work
+* **Observant and Inquisitive** - Programming has tested my eye for detail and I've learned a great deal by pulling threads when looking at other people's code, or debugging my own. Improving myself like this, I've become able to make informed decisions earlier in my work, and been alert to repeating errors. For example, experimenting with pure JS and HTML, my investigations brought me to learn about the events loop, valued information when I came to understanding the lifecycle methods and virtual DOM in React.
+
+* **Creative and Conceptual Thinker** - After studying a foundation year in Fine Art, I've found added joy in work spanning different mediums. Since have found it important to breathe creative life into projects where possible ever since: Whether allowing a concept to inform decisions or thinking laterally and applying creative thinking to navigate novel situations. I find having a way to look at a problem from a fresh perspective can be informing, incentivising and helps to keep things fun wherever possible, especially when keeping myself and team engaged and enjoying the work
 
 * **Aptitude for fast learning** - 
 I found the experience of going back to study again refreshing. The skills I had picked up from 
@@ -70,9 +70,7 @@ my varied work history were transferable to learning new things quickly. Returni
 
 * **Resourceful Problem Solver** -  I have always liked finding creative solutions for problems, diagnosing an issue and assessing what tools are available to solve the problem. I've enjoyed bringing this thinking to my debugging and troubleshooting process. 
 
-* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background have given me solid assurance in my ability to be confident and charismatic. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy. I look forward to meeting and working with new people in my future workplace. 
-
-* **Observant and Inquisitive** - Programming has tested my eye for detail and I've learned a great deal by *pulling threads* when looking at other people's code, or debugging my own. Improving myself like this, I've become able to make informed decisions earier in my work, and been alert to repeating errors. For example, in experimenting with pure JS and HTMl, my investiations brought me to learn about the events loop, valued information when I came to understanding the lifecycle methods and virtual DOM in React.
+* **Confident and Expressive** - My customer facing work history, varied life experiences and creative background has given me solid assurance in my ability to be confident and charismatic. This was particularly useful during my bootcamp where I was able to make friends and be part of strong communicative teams that remained goal-oriented and happy. I look forward to meeting and working with new people in my future workplace. 
 
 <a name="education"></a>
 ## Education
