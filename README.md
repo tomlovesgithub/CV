@@ -4,7 +4,7 @@
 <h1 align="center"> Tom Russell </h1>
 <p align="center">
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/thomas-russell-5543b2188/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="40" width="40"></a>
 <a href="mailto:tr115251@hotmail.co.uk">
 <img src="https://img.icons8.com/metro/420/email.png" alt="linkedin" hspace="50" height="40" width="40"></a>
