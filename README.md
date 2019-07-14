@@ -63,7 +63,7 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
 * **Creative and Conceptual Thinker** - After studying a foundation year in Fine Art, I've found added joy in work spanning different mediums. Since have found it important to breathe creative life into projects where possible ever since: Whether allowing a concept to inform decisions or thinking laterally and applying creative thinking to navigate novel situations. I find having a way to look at a problem from a fresh perspective can be informing, incentivising and helps to keep things fun wherever possible, especially when keeping myself and team engaged and enjoying the work
 
 * **Aptitude for fast learning** - 
-After gaining this skill from my varied work history, I found it transferable to my experience at Makers Academy. learning new things quickly. 
+After gaining this skill from my varied work history, I found it transferable to my experience at Makers Academy where i had to learn and apply new knowledge quickly. 
 I feel confident in joining a workplace that requires me to learn new skills and would enjoy the opportunity to continue progressing.
 
 * **Agile Development** - XP values were taught at Makers Academy Bootcamp and I found the Agile system of shared input, goals and work an efficient model for project development. Ideally I'd like to work somewhere with an Agile system and XP values.
