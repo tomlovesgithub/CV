@@ -48,10 +48,24 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
   <td> React, Axios, Node.js, Express.js, Mongo.db, Concurrently </td> 
   <td>Cypress, Mocha, Supertest</td>  
 </tr>  
-  <td><a href='https://github.com/tomlovesgithub/canvas-experiments'>Canvas Experiments</a></td>
-  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.<a href='http://canvas-experiments.surge.sh'> Find it online here</a></td>  
+  <td><a href='https://github.com/tomlovesgithub/canvas-experiments'>Canvas Experiments 1.0 </a></td>
+  <td> After discovering the HTML5 canvas element and being inspired by examples from others devs online, I started to experiment with using code to generate visual effects.<a href='http://canvas-experiments.surge.sh'> <br> Find this projects first deployment online here</a></td>  
   <td> Vanilla JS and HTML </td> 
   <td> none </td>  
+</tr> 
+<tr>
+  <td><a href='https://github.com/tomlovesgithub/veejo_react'> Veejo-React</a></td>
+  <td> After working with HTML5 and React i wanted to a project where I could effectively use both technologies and style the project to look polished . With continuous integration and deployment, this is an ongoing project i hope to continue to add to, use to learn and grow. 
+  <br><a href='https://tomlovesgithub.github.io/veejo_react/'> Find it online here</a></td>  
+  <td> Node.js, React, HTML5 </td> 
+  <td> Jest, Ezyme </td>  
+</tr>  
+<tr>
+  <td><a href='https://github.com/tomlovesgithub/veejo_react'> Veejo-React</a></td>
+  <td> After working with HTML5 and React i wanted to a project where I could effectively use both technologies and style the project to look polished . With continuous integration and deployment, this is an ongoing project i hope to continue to add to, use to learn and grow. 
+  <br><a href='https://tomlovesgithub.github.io/veejo_react/'> Find it online here</a></td>  
+  <td> Node.js, React, HTML5 </td> 
+  <td> Jest, Ezyme <p style=>, Cypress</p> </td>  
 </tr>  
 </table>
 
