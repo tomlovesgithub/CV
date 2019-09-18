@@ -60,13 +60,13 @@ My interests and creative ambitions led me to study at Makers, I am now looking 
   <td> Node.js, React, HTML5 </td> 
   <td> Jest, Ezyme </td>  
 </tr>  
-<tr>
+<!-- <tr>
   <td><a href='https://github.com/tomlovesgithub/veejo_react'> Veejo-React</a></td>
   <td> After working with HTML5 and React i wanted to a project where I could effectively use both technologies and style the project to look polished . With continuous integration and deployment, this is an ongoing project i hope to continue to add to, use to learn and grow. 
   <br><a href='https://tomlovesgithub.github.io/veejo_react/'> Find it online here</a></td>  
   <td> Node.js, React, HTML5 </td> 
   <td> Jest, Ezyme <p style=>, Cypress</p> </td>  
-</tr>  
+</tr>   -->
 </table>
 
 <a name="skills"></a>
